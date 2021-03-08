@@ -5068,3 +5068,21 @@ body.is-touch #container06 {
 		margin: 0.65625rem;
 	}
 }
+
+/* custom CSS starts here */
+#nav {
+  position: absolute; 
+  top: 0;
+  background: transparent;
+  width: 100%;
+  text-align: right;
+  font-family: 'Arial', sans-serif;
+  padding-right: 3em;
+  padding-top: 0.5em;
+  letter-spacing: 0.1em;
+  font-size: 1.5em;
+}
+#nav a {
+  color: white; 
+  text-decoration: none;
+}
